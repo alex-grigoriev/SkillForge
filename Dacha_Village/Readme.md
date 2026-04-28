@@ -1,10 +1,5 @@
 # 🏡 Модель дачного посёлка (C++)
 
-![C++](https://img.shields.io/badge/язык-C%2B%2B-blue)
-![Статус](https://img.shields.io/badge/статус-учебный-green)
-![Платформа](https://img.shields.io/badge/платформа-консоль-lightgrey)
-![License](https://img.shields.io/badge/license-MIT-yellow)
-
 ---
 
 ## 📌 Описание проекта
